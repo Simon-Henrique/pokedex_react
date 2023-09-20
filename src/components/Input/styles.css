@@ -1,0 +1,17 @@
+.input-conteiner {
+  min-height: 60px;
+  display: flex;
+  align-items: flex-start;
+  /* padding-bottom: 30px; */
+}
+
+.inputz {
+  background-color: yellow;
+  width: 50%;
+  margin: 0 auto;
+  padding: 5px 5px;
+  color:blue;
+  border-color: blue;
+  font-size: larger;
+  border-radius: 10px;
+}

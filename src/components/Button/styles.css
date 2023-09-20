@@ -1,0 +1,23 @@
+.button-conteiner {
+  min-height: 100px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.button {
+  background-color: yellow;
+  color: blue;
+  width: 100%;
+  padding: 15px 30px;
+  font-size: larger;
+  border-color: blue;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.button:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+  color:black;
+  border-color: black;
+}
