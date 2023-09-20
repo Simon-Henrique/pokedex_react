@@ -1,3 +1,8 @@
+
+This is the secound version of a pokedex, now with react!
+There is some new features like searching input and load more pages buttons.
+As this project was made with react, so the sollutions are diferent also compared to the angular version.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
